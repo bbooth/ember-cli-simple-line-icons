@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "https://github.com/ember-cli-simple-line-icons",
+  "repository": "https://github.com/bbooth/ember-cli-simple-line-icons.git",
   "engines": {
     "node": ">= 0.10.0"
   },
